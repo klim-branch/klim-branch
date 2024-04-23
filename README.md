@@ -1,4 +1,4 @@
-### Kun Ho Lim (Kun) - [Integration Engineer at Branch] 👍
+### Kun Ho Lim (Kun) - [Solutions Integration Engineer at Branch] 👍
 
 #### IOS Testbed
 https://github.com/klim-branch/Kun-IOS-Test-Bed
